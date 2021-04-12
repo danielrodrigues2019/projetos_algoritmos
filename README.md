@@ -1,2 +1,2 @@
-# projetos_algoritmos
-Curso Algoritmos
+# Projetos curso algoritmos
+### Curso Algoritmos
