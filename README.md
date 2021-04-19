@@ -1,2 +1,2 @@
 # Projetos curso algoritmos
-### Curso Algoritmos
+### Curso Algoritmos com exercicios de fixação 
